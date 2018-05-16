@@ -1,0 +1,8 @@
+directories:
+  output: dist
+  buildResources: build
+appId: app.creative.builder
+files:
+  - '**/*'
+  - dist/**/*
+electronVersion: 2.0.0
